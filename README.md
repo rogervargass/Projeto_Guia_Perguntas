@@ -7,3 +7,6 @@
 
 # <h3>Pagina para perguntar</h3>
 ![guia_perguntas_perguntar](https://user-images.githubusercontent.com/70342776/100653867-c7936980-3327-11eb-981b-bc070aec11c9.PNG)
+
+# <h3>Pagina da pergunta</h3>
+![guia_perguntas_responder](https://user-images.githubusercontent.com/70342776/100653983-f01b6380-3327-11eb-98cd-bd8eb5dd8188.PNG)
