@@ -1,0 +1,19 @@
+body{
+    background-color: #eceff1;
+}
+
+#formulario-pergunta{
+    margin-top: 5vh;
+}
+
+h3 {
+    text-align: center;
+}
+
+.container label {
+    text-align: left;
+}
+
+.card-footer{
+    text-align: center;
+}
